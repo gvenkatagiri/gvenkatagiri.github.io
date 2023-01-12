@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Word of Mouth - A Book Review Blog</title>
-    <link>http://example.org/</link>
+    <link>https://gvenkatagiri.github.io/</link>
     <description>Recent content on Word of Mouth - A Book Review Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Gaurav Venkatagiri</copyright>
-    <lastBuildDate>Thu, 12 Jan 2023 17:34:09 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 17:34:09 +0530</lastBuildDate><atom:link href="https://gvenkatagiri.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Book Reviews</title>
-      <link>http://example.org/posts/why-book-reviews/</link>
+      <link>https://gvenkatagiri.github.io/posts/why-book-reviews/</link>
       <pubDate>Thu, 12 Jan 2023 17:34:09 +0530</pubDate>
       
-      <guid>http://example.org/posts/why-book-reviews/</guid>
+      <guid>https://gvenkatagiri.github.io/posts/why-book-reviews/</guid>
       <description>While walking along the beaches of Pondicherry in Septmeber 2021, I was inspired while in conversation with my wife (a usual happenstance in my case &amp;amp; a testament to the gem of a person that she is) to mindfully make time for reading books. Since then I have managed to channel that inspiration on a regular basis and have been reading consistently. The joys of reading a book are continually reinforced for my with every new book that I read - it is perhaps the best way to expand one&amp;rsquo;s mind, accrue empathy &amp;amp; slowly add wisdom, one layer at a time.</description>
     </item>
     
