@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Word of Mouth - A Book Review Blog'
+copyright = "© Gaurav Venkatagiri"
+theme = 'archie'
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/gauravsv32"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/gaurav-venkatagiri-a242b521/"
+
