@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Gaurav Venkatagiri</copyright>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gvenkatagiri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gvenkatagiri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chip War</title>
+      <link>https://gvenkatagiri.github.io/posts/chip-war/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvenkatagiri.github.io/posts/chip-war/</guid>
+      <description>I care about semiconductor chips. I&amp;rsquo;ve chosen this line of work &amp;amp; been a part of it for over 11 years now &amp;amp; have no regrets over it. From an engineering standpoint, designing and manufacturing chips is an utterly fascinating, complex interplay of software and hardware - a revelation made abundantly clear &amp;amp; accessible to non-nerds through extensive research &amp;amp; attention to detail in the subject of this review. Chip War by Chris Miller, which attempts to consolidate the complete evolutionary journey of modern semiconductors from the late 50s up to the present day, is therefore essential reading for me and my tribe.</description>
+    </item>
+    
     <item>
       <title>Cinema Speculation</title>
       <link>https://gvenkatagiri.github.io/posts/cinema-speculation/</link>
