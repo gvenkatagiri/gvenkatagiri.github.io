@@ -4,7 +4,7 @@ date: 2023-04-02
 draft: false
 ---
 
-![book jacket front](/invisible-women.JPG "paperback front cover. all copyrights rest with the author/publisher")
+![book jacket front](/invisible-women.jpg "paperback front cover. all copyrights rest with the author/publisher")
 
 __IN__ _Invisible Women_, author Caroline Criado Perez highlights systemic, implicit biases against women that are so staggeringly fundamental, they are downright revelatory - if you're a man. Women reading the book will likely nod knowingly & resonate with the rightful tone of frustration weaving through the book. Here are a few examples of the several data-backed, historically male-driven blindspots detailed in the book. Most automobile companies only design car safety features for the average sized human male. In the construction sector, everything from a bag of cement to a brick is sized to be wielded by an average sized human male. Most toilets in the world have a 50-50 area split across men and women which is actually not fair at all, considering the space and time needed for a woman to use the loo with reasonable comfort is more compared to a man. These and other systemic biases impact women on a spectrum of badness - with the worst cases including a disproportionately higher risk of cancer from exposure to toxic chemicals deemed acceptable by standards designed for male skin which is typically thicker.
 
